@@ -18,7 +18,9 @@ const MAPPING = {
   'paperplane.fill': 'send',
   'chevron.left.forwardslash.chevron.right': 'code',
   'chevron.right': 'chevron-right',
-  'wallet.bifold.fill':'wallet'
+  'chevron.left': 'chevron-left',
+  'wallet.bifold.fill':'wallet',
+  'qrcode':'qr-code'
 } as IconMapping;
 
 /**
